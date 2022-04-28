@@ -1,4 +1,4 @@
-package dropdowmExample;
+package automation;
 
 import java.time.Duration;
 import java.util.NoSuchElementException;
